@@ -1,3 +1,10 @@
+## Usage
+
+```
+blindxss -f XssUrls.txt -p payloads/xss/xssBlind.txt
+```
+
+
 ## Options
 
 ```
