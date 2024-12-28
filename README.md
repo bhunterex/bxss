@@ -38,3 +38,4 @@ sudo apt install dos2unix -y
 sudo ln -sf /opt/bxss/bxss.py /usr/local/bin/blindxss
 blindxss -h
 ```
+<img src="./images/instructions.png" >
