@@ -4,7 +4,7 @@
 blindxss -f XssUrls.txt -p payloads/xss/xssBlind.txt
 ```
 ```
-blindxss -u "http://testphp.vulnweb.com/artists.php?artist=" -p ~/payloads/xss/xssBlind.txt
+blindxss -u "http://testphp.vulnweb.com/artists.php?artist=" -p payloads/xss/xssBlind.txt
 ```
 
 
